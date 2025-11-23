@@ -1,0 +1,2 @@
+# Image-Search-Engine
+A fully front-end image search engine built with plain HTML, CSS, and JavaScript that uses fetch() to query a public image API and displays results in a responsive, user-friendly gallery. The project demonstrates how to wire a search input to a remote API, handle asynchronous requests, render paginated results, and provide basic UI/UX features such as loading states, error handling, and image previews — all without any backend server.
